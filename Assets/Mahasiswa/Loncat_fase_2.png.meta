@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c5dc6f83db0c6a846989f9ef29e79f0c
+guid: 7826d72cf11c88d429990e29345c3360
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8214324388064259711
-    second: WhatsApp Image 2026-04-30 at 11.09.19_0
+      213: -3895107586989518991
+    second: Loncat_fase_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhatsApp Image 2026-04-30 at 11.09.19_0
+      name: Loncat_fase_2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 367
-        height: 548
+        x: 38
+        y: 3
+        width: 254
+        height: 418
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1811a9b8d7bd00e80800000000000000
-      internalID: -8214324388064259711
+      spriteID: 17f8f8b694cc1f9c0800000000000000
+      internalID: -3895107586989518991
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WhatsApp Image 2026-04-30 at 11.09.19_0: -8214324388064259711
+      Loncat_fase_2_0: -3895107586989518991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

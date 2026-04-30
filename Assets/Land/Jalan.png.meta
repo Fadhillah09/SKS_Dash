@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 74fb843e3a719e14f95099eee5f643ca
+guid: 6a7f2a7865d5b0a43b831820b14bf03c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1240154084041296099
-    second: WhatsApp Image 2026-04-30 at 11.09.21 (2)_0
+      213: -5716323154191488938
+    second: Jalan_0
+  - first:
+      213: -553170645224042173
+    second: Jalan_1
+  - first:
+      213: 9084944822790415811
+    second: Jalan_2
+  - first:
+      213: -64041720943692275
+    second: Jalan_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhatsApp Image 2026-04-30 at 11.09.21 (2)_0
+      name: Jalan_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 385
-        height: 464
+        x: 52
+        y: 48
+        width: 206
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +150,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d17f7f16e661acee0800000000000000
-      internalID: -1240154084041296099
+      spriteID: 658631da06a8ba0b0800000000000000
+      internalID: -5716323154191488938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jalan_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 8
+        width: 198
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3415f3f9a3eb258f0800000000000000
+      internalID: -553170645224042173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jalan_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 8
+        width: 230
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c56276ae25341e70800000000000000
+      internalID: 9084944822790415811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jalan_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 38
+        width: 205
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06b854e46a7c1ff0800000000000000
+      internalID: -64041720943692275
       vertices: []
       indices: 
       edges: []
@@ -161,7 +236,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WhatsApp Image 2026-04-30 at 11.09.21 (2)_0: -1240154084041296099
+      Jalan_0: -5716323154191488938
+      Jalan_1: -553170645224042173
+      Jalan_2: 9084944822790415811
+      Jalan_3: -64041720943692275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
