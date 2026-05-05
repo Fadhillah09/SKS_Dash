@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f9e3c59145ce7d64db2742755c27141f
+guid: 4972d7104418d2e40a9aea771c9db654
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4552329948538055209
-    second: Mahasiswa_0
+      213: -5412910156287300836
+    second: image (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mahasiswa_0
+      name: image (1)_0
       rect:
         serializedVersion: 2
-        x: 306
-        y: 26
-        width: 561
-        height: 844
+        x: 17
+        y: 289
+        width: 1374
+        height: 208
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92aabfa08ff1d2f30800000000000000
-      internalID: 4552329948538055209
+      spriteID: c1b246544ea71e4b0800000000000000
+      internalID: -5412910156287300836
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mahasiswa_0: 4552329948538055209
+      image (1)_0: -5412910156287300836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
